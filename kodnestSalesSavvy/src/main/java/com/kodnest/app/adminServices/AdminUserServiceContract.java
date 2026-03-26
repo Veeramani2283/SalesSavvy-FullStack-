@@ -1,0 +1,8 @@
+package com.kodnest.app.adminServices;
+
+import com.kodnest.app.entities.User;
+
+public interface AdminUserServiceContract {
+	public User modifyUser(Integer userId, String usernae, String email, String role);
+	public User getUserById(Integer userId);
+}
