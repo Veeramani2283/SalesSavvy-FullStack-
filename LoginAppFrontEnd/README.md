@@ -1,4 +1,13 @@
-# React + Vite
+# Sales Savvy – E-Commerce Frontend (React.js)
+
+### Tech Stack
+**React.js, Axios, React Router, Bootstrap/Tailwind, JWT Session Management**
+
+### Key Features
+* **Intuitive UI/UX:** Delivered a responsive frontend for product browsing, real-time cart management, and order tracking.
+* **Admin Dashboard:** Created a dedicated portal for administrators to monitor daily, monthly, and yearly business analytics.
+* **Secure Routing:** Integrated with the JWT backend to protect private routes and ensure session security.
+* **State Management:** Handled complex user flows from product selection to successful checkout and payment confirmation.# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
